@@ -25,3 +25,4 @@ http://<public>:8080
 9. cd into the eks, use terraform to create the cluster
 10. in the directory, run kubectl apply -f deployment/
 11. copy the url of the loadbalancer created on aws and access the aplication.
+12. Thanks to Senoir Eng Rachel
