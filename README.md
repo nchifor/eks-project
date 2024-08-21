@@ -26,3 +26,5 @@ http://<public>:8080
 10. in the directory, run kubectl apply -f deployment/
 11. copy the url of the loadbalancer created on aws and access the aplication.
 12. Thanks to Senoir Eng Rachel
+13. Added branch "Stage
+13. Added branch "Stage"
